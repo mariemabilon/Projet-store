@@ -1,0 +1,13 @@
+export const NOM_STORE = "@store - change name store";
+export const STORE_ADD_PRODUCT = "@store - add product";
+export const STORE_EDIT_FIELD_PRODUCT = "@store - edit one field of product";
+export const STORE_CONFIRM_EDIT = "@store - valid editing";
+export const STORE_INCREMENT_PRODUCT_QUANITY = "@store - increment quantity  product";
+export const STORE_DECREMENT_PRODUCT_QUANITY = "@store - decrement quantity  product";
+export const STORE_DELETE_PRODUCT = "@store - delete product"
+export const STORE_VALID_CART = "@store - valid cart";
+export const STORE_EDIT_VRAI = "@store - editer vrai cart";
+export const STORE_EDIT_FAUX = "@store - editer faux cart";
+export const STORE_DECREMENT_CART_QUANTITY = "@market - decrement cart";
+export const TOTAL_PRICE = "@market - total price";
+export const STORE_ADD_ITEMS_CART = "@market - add item to cart";
